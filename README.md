@@ -3,7 +3,7 @@
 
 Soy estudiante de **Ingeniería en Informática** en el  ** Instituto Tecnologico Nacional de Mexico Campus Monclova**. Me interesa el desarrollo de software. Mi objetivo es seguir aprendiendo, mejorar mis habilidades. 
 
-## 🎓 Actualmente
+## Actualmente
 
 - Estudio **desarrollo web**, **algoritmos** y **bases de datos**.
 - Realizo proyectos personales para mis materias en la universidad y asi mejorar mis habilidades prácticas.
